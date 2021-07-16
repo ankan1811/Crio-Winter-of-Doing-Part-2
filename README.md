@@ -2,7 +2,7 @@
 
 ## General info
 Stage 2B submission for XMeme
-# sample Link : [Xmeme](https://xmeme-stream.netlify.app/)
+<!--# sample Link : [Xmeme](https://xmeme-stream.netlify.app/)-->
 	
 ## Technologies
 Project is created with:
