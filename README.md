@@ -1,7 +1,7 @@
 # CWOD-Part-2
 
 ## General info
-Stage 2B submission for XMeme
+An Xmeme is a full stack meme streaming application in which you can paste url of memes and post it .It uses Reactjs, Nodejs, Expressjs and MongoDB.
 <!--# sample Link : [Xmeme](https://xmeme-stream.netlify.app/)-->
 	
 ## Technologies
